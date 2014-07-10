@@ -1,0 +1,46 @@
+file,hash
+C:\Users\plummt\Documents\GitHub\AnalysisProject\DataHash.m,E725A80CB9180DE1EB03E47B850A95DC
+C:\Users\plummt\Documents\GitHub\AnalysisProject\Project Database.xlsx,5DAB05D54C32CFF61D4FCCFCCDB4F3F4
+C:\Users\plummt\Documents\GitHub\AnalysisProject\addproject.fig,AD363596FAD58B9F414C425F11D737F1
+C:\Users\plummt\Documents\GitHub\AnalysisProject\addproject.m,BA683BC34117AEEF0DBE4029A98EC653
+C:\Users\plummt\Documents\GitHub\AnalysisProject\checksum.m,BC4DFEF5EE67E2D2F14F7F94D97BB172
+C:\Users\plummt\Documents\GitHub\AnalysisProject\cropping.m,7720D987A47740FC93FBFF79C710231D
+C:\Users\plummt\Documents\GitHub\AnalysisProject\filelocations.mat,8153D19F72A25B5F6FEE2965C9DABA8A
+C:\Users\plummt\Documents\GitHub\AnalysisProject\filelocator.m,622BDD3D96C2A713EA0784D33E22DA84
+C:\Users\plummt\Documents\GitHub\AnalysisProject\loadpath.m,E6D0FDFC8F68A82B722544C9CFB417D7
+C:\Users\plummt\Documents\GitHub\AnalysisProject\mygui.m,A8710F2DBF17507D791ACFE184B2D32A
+C:\Users\plummt\Documents\GitHub\AnalysisProject\projectlocator.m,F0FEA5954614DE44C56C1D6E90F143A0
+C:\Users\plummt\Documents\GitHub\AnalysisProject\setup.m,BB4011345D7EFD2BD689CE9C6A63C2A7
+C:\Users\plummt\Documents\GitHub\AnalysisProject\test.m,6DDA0B78272E520CD6128A7869728BB1
+C:\Users\plummt\Documents\GitHub\AnalysisProject\timezone.fig,77F239259A158A242A7E4092E835CE93
+C:\Users\plummt\Documents\GitHub\AnalysisProject\timezone.m,043E12B698A2E6AC4FD75DBB4B1ECB1D
+C:\Users\plummt\Documents\GitHub\AnalysisProject\txt2cdf.m,9905482D8E1AB2A7F162552F7DE9BECD
+C:\Users\plummt\Documents\GitHub\AnalysisProject\writesum.m,1948ABBF63422E7C54FEBF514DCF1EA0
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\angleCurve.mat,9B4671BC15C5E6EB58859752448C5E27
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\batchreport.m,F58926B6C6878243B57B5A5A940D7F5E
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\combinedPhasorResults.mat,4E2BD52E41D422172CC823C02F4EBC68
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\daysimeteraverages.m,5DDC5A9D7002D3FF112962827049B16C
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\generatereport.m,8EF9F76E6D7C1EB55AC3972DB3FBD127
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\initializefigure.m,CC4D5D7FB63850065447F22D1C76BDCB
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\loadlrclogo.m,ABB2E654753565CA9653F96AB8CD4617
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\loadrpilogo.m,ED332FE6F44514F3A1BFDF1ADB4D919B
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\logmean.m,F403A6320758E5EF9ED0E0E7A46B91F5
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\lrcLogo.png,12ABF3B0E2C91A1073892D1DDE5520F6
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\magnitudeCurve.mat,C9C185F0E0334907B944909BC8F0BFB0
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\millerplot.m,0E844E04D20648BC26B3F7AD88DDA62F
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\nonzeromean.m,1118F1C102729CFC9B0CDE34DE4A8D2E
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\phasorangdist.m,3E9D57D6183AF0C85CAB6B87F654F44D
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\phasormagdist.m,C1C771E2B1E1A46C4468AA075BA55739
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\phasorplot.m,EB14B21A56CEFAD7E3A3A46609C79B45
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\plotfooter.m,C15EF823C7CBD8497CE3615C799E9761
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\plotnotes.m,43AD06BB7166D44DC8D8AA9E1FE92B3A
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\plotnursenote.m,950E11E4140216F2B98AC14FA1428F33
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\plotphasorcompass.m,FB35B8B9C2B268C6E95A60501A7FAB04
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\plotreporttitle.m,8B33733EF5951BC5C6E9B96D04F4981B
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\plotrotatingnurse.m,4C209F78EC628B20CDC407195144161F
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\plotsubjectname.m,77E76FFFF51916AE3697AA840DB70A93
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\plotsubjectonhist.m,9B3552554EEB3477FA2940DBC5512EB3
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\rpiLogo.png,936ACAD7B9E16C98C676080E2274CD6D
+C:\Users\plummt\Documents\GitHub\AnalysisProject\Time Series\batchtimeseries.m,8FBC2F7EC6755E00EB54A3E7E0A281B3
+C:\Users\plummt\Documents\GitHub\AnalysisProject\Time Series\datetick2.m,409688F8C9253252744F4DDEFB573673
+C:\Users\plummt\Documents\GitHub\AnalysisProject\Time Series\generatetimeseries.m,183AFC4A104F24D2120E959A3DCC9109
