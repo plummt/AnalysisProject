@@ -9,20 +9,22 @@ for i = 1:nFiles
     file{i} = list{i};
     filePath = fullfile(file{i});
     hash{i} = DataHash(filePath,s);
-    
-    
 end
 hash = hash';
 file = file';
 t = table(file,hash);
-t2 = readtable('Hashes Database.txt');
+t2 = readtable('C:\Users\plummt\Documents\GitHub\AnalysisProject\Hashes Database.txt');
 l = size(t);
 m = size(t2);
 logic = zeros(m(2),1);
 for i = 1:l(1)
     for j = 1:m(1)
-        if strcmp(t.hash(i),t2.hash(j))
-            logic(i) = true;
+        if strcmp(t.file(i),t2.file(j))
+            if strcmp(t.hash(i),t2.hash(j))
+                logic(i) = true;
+            else
+                logic(i) = false;
+            end
         end
     end
 end
@@ -64,6 +66,8 @@ for k = length(folders):-1:1
         folders(k) = [ ];
     elseif strcmp([name,ext], 'Hashes Database.txt')
         folders(k) = [ ];
+    elseif strcmp([name,ext], 'revision.txt')
+        folders(k) = [ ];
     end
 end
 end
@@ -78,7 +82,7 @@ function fileList = getAllFiles(dirName)
                        fileList,'UniformOutput',false);
   end
   subDirs = {dirData(dirIndex).name};  %# Get a list of the subdirectories
-  validIndex = ~ismember(subDirs,{'.','..','.git','Test_Program'});  %# Find index of subdirectories
+  validIndex = ~ismember(subDirs,{'.','..','.git','Test_Program','CheckSum'});  %# Find index of subdirectories
                                                %#   that are not '.' or '..'
   for iDir = find(validIndex)                  %# Loop over valid subdirectories
     nextDir = fullfile(dirName,subDirs{iDir});    %# Get the subdirectory path

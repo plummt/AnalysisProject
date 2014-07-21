@@ -1,23 +1,24 @@
 file,hash
+C:\Users\plummt\Documents\GitHub\AnalysisProject\Checksum.prj,C1B1ED5EE678968FA55EF408E17D440E
 C:\Users\plummt\Documents\GitHub\AnalysisProject\DataHash.m,E725A80CB9180DE1EB03E47B850A95DC
-C:\Users\plummt\Documents\GitHub\AnalysisProject\Project Database.xlsx,5DAB05D54C32CFF61D4FCCFCCDB4F3F4
+C:\Users\plummt\Documents\GitHub\AnalysisProject\Project Database.xlsx,F40F2303AFA7013D1FA8D2C76563F73A
 C:\Users\plummt\Documents\GitHub\AnalysisProject\addproject.fig,AD363596FAD58B9F414C425F11D737F1
-C:\Users\plummt\Documents\GitHub\AnalysisProject\addproject.m,BA683BC34117AEEF0DBE4029A98EC653
-C:\Users\plummt\Documents\GitHub\AnalysisProject\checksum.m,BC4DFEF5EE67E2D2F14F7F94D97BB172
+C:\Users\plummt\Documents\GitHub\AnalysisProject\addproject.m,B9806B9FF66F13A6611CFBD188266DE9
+C:\Users\plummt\Documents\GitHub\AnalysisProject\checksum.m,CED9F159DC543DC2BE2981B06D6283ED
 C:\Users\plummt\Documents\GitHub\AnalysisProject\cropping.m,7720D987A47740FC93FBFF79C710231D
 C:\Users\plummt\Documents\GitHub\AnalysisProject\filelocations.mat,8153D19F72A25B5F6FEE2965C9DABA8A
 C:\Users\plummt\Documents\GitHub\AnalysisProject\filelocator.m,622BDD3D96C2A713EA0784D33E22DA84
+C:\Users\plummt\Documents\GitHub\AnalysisProject\getAllFiles.m,9B50242B5AFB3D2EB6BC83A1B3BDD299
 C:\Users\plummt\Documents\GitHub\AnalysisProject\loadpath.m,E6D0FDFC8F68A82B722544C9CFB417D7
 C:\Users\plummt\Documents\GitHub\AnalysisProject\mygui.m,A8710F2DBF17507D791ACFE184B2D32A
 C:\Users\plummt\Documents\GitHub\AnalysisProject\projectlocator.m,F0FEA5954614DE44C56C1D6E90F143A0
-C:\Users\plummt\Documents\GitHub\AnalysisProject\setup.m,BB4011345D7EFD2BD689CE9C6A63C2A7
+C:\Users\plummt\Documents\GitHub\AnalysisProject\setup.m,B04466BE5557F2A1A2CA378696BD227C
 C:\Users\plummt\Documents\GitHub\AnalysisProject\test.m,6DDA0B78272E520CD6128A7869728BB1
 C:\Users\plummt\Documents\GitHub\AnalysisProject\timezone.fig,77F239259A158A242A7E4092E835CE93
-C:\Users\plummt\Documents\GitHub\AnalysisProject\timezone.m,043E12B698A2E6AC4FD75DBB4B1ECB1D
-C:\Users\plummt\Documents\GitHub\AnalysisProject\txt2cdf.m,9905482D8E1AB2A7F162552F7DE9BECD
-C:\Users\plummt\Documents\GitHub\AnalysisProject\writesum.m,1948ABBF63422E7C54FEBF514DCF1EA0
+C:\Users\plummt\Documents\GitHub\AnalysisProject\timezone.m,C6FAB0810309DBCF29FE60DB812FBD5C
+C:\Users\plummt\Documents\GitHub\AnalysisProject\writesum.m,60753CC2376CA028F7878F5C5383C691
 C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\angleCurve.mat,9B4671BC15C5E6EB58859752448C5E27
-C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\batchreport.m,F58926B6C6878243B57B5A5A940D7F5E
+C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\batchreport.m,19D8D45F416EAE2CC2E1EA30144B55C1
 C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\combinedPhasorResults.mat,4E2BD52E41D422172CC823C02F4EBC68
 C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\daysimeteraverages.m,5DDC5A9D7002D3FF112962827049B16C
 C:\Users\plummt\Documents\GitHub\AnalysisProject\LHI report\generatereport.m,8EF9F76E6D7C1EB55AC3972DB3FBD127

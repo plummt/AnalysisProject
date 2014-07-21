@@ -37,7 +37,11 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
-
+CheckSum/
+files for greg/
 Test_Program/
 filelocations.mat
 test.m
+revision.txt
+Project Database.xlsx
+~$*.*
