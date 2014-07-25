@@ -21,14 +21,19 @@ function cropping
 % and will save the files to the directory the user selects
 
 %% Specify directories
-
-projectDir = uigetdir(pwd,'Select Project File');
-if projectDir == 0
+loadpath;
+projdir = projectlocator;
+if projdir ~= 0
+    projectDir = uigetdir(projdir,'Select Project File');
+    if projectDir == 0
+        return
+    end
+else
     return
 end
 oldDir = fullfile(projectDir);
 
-newDir = uigetdir(pwd,'Save Location');
+newDir = uigetdir(projdir,'Save Location');
 if newDir == 0
     return
 end
